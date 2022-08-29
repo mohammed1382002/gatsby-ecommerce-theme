@@ -65,7 +65,7 @@ const IndexPage = () => {
             showSlider
             height={480}
             columns={3}
-            data={newArrivals}
+            data={latestArrivals}
           />
         </Container>
       </div>
